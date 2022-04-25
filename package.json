@@ -1,5 +1,6 @@
 {
-  "private": true,
+  "name": "@flashminat0/create-next-app-with-tailwind-and-custom-server-express",
+  "bin" : "./bin/cli.js",
   "scripts": {
     "dev": "node server.js",
     "build": "next build",
